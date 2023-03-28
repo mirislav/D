@@ -1,0 +1,7 @@
+.navbar a:hover {
+    color:lightgray !important;
+}
+
+.card {
+    margin-left: 20px;
+}
